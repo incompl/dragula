@@ -2,7 +2,7 @@
 
 ## HOT ROD HERMAN REMIX
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iFQ9-JEOQVo" frameborder="0" allowfullscreen></iframe>
+<a href="https://www.youtube.com/watch?v=iFQ9-JEOQVo"><img src="http://i.imgur.com/vTuP80b.png"></a>
 
 > Drag and drop so simple it hurts
 
